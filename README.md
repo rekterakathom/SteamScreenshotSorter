@@ -5,6 +5,9 @@ A simple to use Python tool to sort your uncompressed Steam screenshots into nam
 - Simple CLI
 - Caching! Repeated runs will be very fast
 
+## ❗ Warning
+- Files will be moved around and sorted **in place**, make a copy of the directory before operation to ensure that you don't lose your data!
+
 # 🔨 Installation
 1. Download the repository either by cloning or by downloading the code as a ZIP
 2. Create a virtual environment ``python -m venv /path/to/environment``
